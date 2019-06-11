@@ -1,0 +1,13 @@
+¿Como actualizo mi repositorio, al estado  que esté el repo que  hice FORK?
+-Deberemos añadir un nuevo repositorio remoto “upstream” que será sincronizado con el fork, para ello ejecutamos lo siguiente:
+
+git remote add upstream https://github.com/usuario_original/repositorio_original.git
+
+¿Puede GAMMA actualizar su FORK al estado del fork de ALFA?
+-SI puede actualizar
+
+¿Puede GAMMA actualizar su FORK al estado del fork de ALFA?
+-Si puede actualizar.
+
+¿Los datos que tenia en mi repositorio, editados por mi, se pierden si quiero actualizar el fork?
+-No, los datos no se pierden.
